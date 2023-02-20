@@ -1,0 +1,9 @@
+/home/xrh/test_ws/install/_setup_util.py
+/home/xrh/test_ws/install/env.sh
+/home/xrh/test_ws/install/setup.bash
+/home/xrh/test_ws/install/local_setup.bash
+/home/xrh/test_ws/install/setup.sh
+/home/xrh/test_ws/install/local_setup.sh
+/home/xrh/test_ws/install/setup.zsh
+/home/xrh/test_ws/install/local_setup.zsh
+/home/xrh/test_ws/install/.rosinstall
